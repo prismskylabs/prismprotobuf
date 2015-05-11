@@ -1,4 +1,4 @@
-prefix=/Users/Huu/git/prismprotobuf/src/build
+prefix=/Users/Huu/git/edge/3rdParty/prismprotobuf/src/build
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
