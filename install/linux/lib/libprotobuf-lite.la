@@ -5,10 +5,10 @@
 # It is necessary for linking the library.
 
 # The name that we can dlopen(3).
-dlname='libprotobuf-lite.so.9'
+dlname=''
 
 # Names of this library.
-library_names='libprotobuf-lite.so.9.0.1 libprotobuf-lite.so.9 libprotobuf-lite.so'
+library_names=''
 
 # The name of the static archive.
 old_library='libprotobuf-lite.a'
@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/root/protobuf/prismprotobuf/src/build/lib'
+libdir='/home/vagrant/edge/3rdParty/prismprotobuf/src/build/lib'
