@@ -1,4 +1,4 @@
-prefix=/home/vagrant/prismprotobuf/src/build
+prefix=/home/vagrant/edge/3rdParty/prismprotobuf/src/build
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
