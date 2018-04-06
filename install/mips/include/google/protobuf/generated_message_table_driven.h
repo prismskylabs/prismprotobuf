@@ -40,7 +40,6 @@
 
 #define PROTOBUF_CONSTEXPR
 #define PROTOBUF_CONSTEXPR_VAR
-#endif
 
 namespace google {
 namespace protobuf {
